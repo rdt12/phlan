@@ -6,10 +6,15 @@
 |:--------|:-------|
 | *Name* |  Foo   |
 | *Race* | Human  |
+| *Age* | 25 |
+| *Alignment* | Chaotic Good | 
+| *Speed*  | 30 |
+
 
 ### Hit Points
 
 *Hit Points:*  56
+
 *HP Current:*  56
 
 ### Stats
@@ -25,6 +30,30 @@
 
 
 ### Skills
+
+Proficient in: Acrobatics, deception, sleight of hand, and stealth, investigation (double, Phlan rule)
+
+
+
+|Skill | Proficiency | Stat | Reason| 
+| Acrobatics        | +6 | dex +5 | proficient, expertise doubles|
+| Animal Handling   |    | wis |
+| Arcana            |    | int|
+| Athletics         |    | str |
+| Deception         | +6 | cha +4 | proficienct, expertise doubles|
+| History           |    | int| |
+| Insight           |    | wis | |
+| Investigation     | +6 | int +3 | proficient, Phlan rule doubled|
+| Medicine          |    | wis |  |
+| Nature            |    | int | |
+| Perception        |    | wis | |
+| Performance       |    | cha | |
+| Persuasion        | +3 | cha + 4 | proficient|
+| Religion          |    | int | |
+| Sleight of Hand   | +6 | dex +5 | proficient, expertise doubles|
+| Stealth           | +6 | dex +5 | proficient, expertise doubles |
+| Survival          |    | wis | |
+
 
 ### Combat-Related Special Abilities
 
@@ -44,4 +73,4 @@
 | Name | Description |
 |:-----|:------|
 |Thieves Cant| discretely communicate with other thieves|
-
+|Languages | common, efl/wood elf|
