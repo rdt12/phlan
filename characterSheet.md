@@ -36,7 +36,6 @@
 | Cunning Action | Bonus action on each turn to do: Dash, Disengage, or Hide|
 | Uncanny Dodge | when an attacker that you can see hits you with an attack, I can  use _reaction_ to have the attack's damage|
 |Evasion | When hit by an AOE and I must Dex save to take half damage, I instead take no damage if I succeed and half damage if I fail|
-
 |Fast Hands|   | Affects _Cunning Action_. bonus action can be used for _use theives tools_ to disarm trap or lock, _sleight of hand_ check, or take the _use and object_ action.|
 |Second Story Work| climbing does not cost extra movement,  when I make a _running jump_ the distance is increased by dex modifier in feet |
 
