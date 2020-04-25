@@ -36,6 +36,7 @@ Proficient in: Acrobatics, deception, sleight of hand, and stealth, investigatio
 
 
 |Skill | Proficiency | Stat | Reason| 
+|:-----|:-----------|:-----:|:--------|
 | Acrobatics        | +6 | dex +5 | proficient, expertise doubles|
 | Animal Handling   |    | wis |
 | Arcana            |    | int|
