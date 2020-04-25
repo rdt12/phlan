@@ -2,8 +2,9 @@
 
 ### Basic information
 
+| Propery| Value|
 |--------|:-------|
-| *Name* |   Foo     |
+| *Name* |   Foo   |
 | *Race* | Human  |
 
 ### Stats
