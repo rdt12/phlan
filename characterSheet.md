@@ -4,7 +4,7 @@
 
 | Propery| Value|
 |:--------|:-------|
-| **Name** |  Foo   |
+| **Name** |  Tier Mi'lal   |
 | **Race** | Human  |
 | **Age** | 25 |
 | **Alignment** | Chaotic Good | 
@@ -75,3 +75,30 @@ Proficient in: Acrobatics, deception, sleight of hand, and stealth, investigatio
 |:-----|:------|
 |Thieves Cant| discretely communicate with other thieves|
 |Languages | common, efl/wood elf|
+
+
+### Weapons
+
+* short sword + 1 1d6 + 
+* short bow + 1
+
+
+### Magic items
+
+* Boots of Elvenkind (uncommon)
+
+* Cloak of Displacement (rare)
+
+
+### Combat
+
+Armor: (leather +1): 11 + 1 (magic) + 5 = AC 16
+
+To hit:  d20 +5 (dex) +3 (proficiency)
+
+Damage:  shortsword: d6 +1 + 5 
+Damage:  shortbow: 
+
+Sneak attack (if engaged with someone else or at disadvantage):  +4d6
+
+x
