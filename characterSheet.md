@@ -86,9 +86,10 @@ Proficient in: Acrobatics, deception, sleight of hand, and stealth, investigatio
 ### Magic items
 
 * Boots of Elvenkind (uncommon)
-
 * Cloak of Displacement (rare)
-
+* short sword +1
+* short bow +1
+* leather armor +1
 
 ### Combat
 
@@ -101,4 +102,5 @@ Damage:  shortbow:
 
 Sneak attack (if engaged with someone else or at disadvantage):  +4d6
 
-x
+
+
