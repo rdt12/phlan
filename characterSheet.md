@@ -6,6 +6,7 @@
 |:--------|:-------|
 | **Name** |  Tier Mi'lal   |
 | **Race** | Human  |
+| **Class** | Rogue |
 | **Age** | 25 |
 | **Alignment** | Chaotic Good | 
 | **Speed**  | 30 |
@@ -102,5 +103,5 @@ Damage:  shortbow:
 
 Sneak attack (if engaged with someone else or at disadvantage):  +4d6
 
-
+Spell save dc: 8 + spellcasting ability modifier + prof bonus + special modifiers
 
