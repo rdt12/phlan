@@ -25,3 +25,26 @@ Carriage speeding through town.
 
 We know the route.
 
+## May 22
+crispin event manager
+
+## May 29
+Minerva...
+
+Something going on in the graveyard.
+
+Carriages going out there...
+
+Graveyard.. talk to Laught after...
+
+
+##
+
+Galanais
+
+Sevina - 
+
+galanis - thieves guild - Bain
+
+
+
