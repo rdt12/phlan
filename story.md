@@ -48,3 +48,6 @@ galanis - thieves guild - Bain
 
 
 
+
+Liara ... at the castle shortly after hte lady regent started her reign.
+
