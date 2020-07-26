@@ -39,22 +39,22 @@ Proficient in: Acrobatics, deception, sleight of hand, and stealth, investigatio
 
 |Skill | Proficiency | Stat | Reason| 
 |:-----|:-----------|:-----:|:--------|
-| **Acrobatics**       | +6 | dex +5 | proficient, expertise doubles|
+| **Acrobatics**       | +8 | dex +5 | proficient, expertise doubles|
 | **Animal Handling**   |    | wis |
 | **Arcana**           |    | int|
 | **Athletics**         |    | str |
-| **Deception**         | +6 | cha +4 | proficienct, expertise doubles|
+| **Deception**         | +8 | cha +4 | proficienct, expertise doubles|
 | **History**           |    | int| |
 | **Insight**           |    | wis | |
-| **Investigation**     | +6 | int +3 | proficient, Phlan rule doubled|
+| **Investigation**     | +8 | int +3 | proficient, Phlan rule doubled|
 | **Medicine**          |    | wis |  |
 | **Nature**            |    | int | |
 | **Perception**        |    | wis | |
 | **Performance**       |    | cha | |
-| **Persuasion**        | +3 | cha + 4 | proficient|
+| **Persuasion**        | +4 | cha + 4 | proficient|
 | **Religion**          |    | int | |
-| **Sleight of Hand**   | +6 | dex +5 | proficient, expertise doubles|
-| **Stealth**           | +6 | dex +5 | proficient, expertise doubles |
+| **Sleight of Hand**   | +8 | dex +5 | proficient, expertise doubles|
+| **Stealth**           | +8 | dex +5 | proficient, expertise doubles |
 | **Survival**          |    | wis | |
 
 
