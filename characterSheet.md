@@ -64,7 +64,7 @@ Proficient in: Acrobatics, deception, sleight of hand, and stealth, investigatio
 |:-----|:------|
 |Expertise 1st level  | **stealth** and **deception** (double proficiency bonus)| 
 |Expertise 6th  level | **acrobatics** and **sleight of hand** (double proficiency bonus)| 
-|Sneak Attack | Once per turn, **extra 4d6** (level based) to one creature I hit during the turn with either advantage or another enemy within 5 feet|
+|Sneak Attack | Once per turn, **extra 5d6** (level based) to one creature I hit during the turn with either advantage or another enemy within 5 feet|
 | Cunning Action | Bonus action on each turn to do: Dash, Disengage, or Hide|
 | Uncanny Dodge | when an attacker that you can see hits you with an attack, I can  use _reaction_ to have the attack's damage|
 |Evasion | When hit by an AOE and I must Dex save to take half damage, I instead take no damage if I succeed and half damage if I fail|
