@@ -51,3 +51,17 @@ galanis - thieves guild - Bain
 
 Liara ... at the castle shortly after hte lady regent started her reign.
 
+
+## Jul 25
+
+Lady Alana
+
+We do have a way to get to the Fey ??? (portal)
+
+Connection to
+
+The queen, lady regent, we can't get her back.
+
+
+Surly escorts us to the ...
+

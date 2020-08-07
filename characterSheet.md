@@ -14,9 +14,9 @@
 
 ### Hit Points
 
-**Hit Points:**  56
+**Hit Points:**  64
 
-**HP Current:**  56
+**HP Current:**  40
 
 
 ### Stats
@@ -97,12 +97,13 @@ Proficient in: Acrobatics, deception, sleight of hand, and stealth, investigatio
 
 Armor: (leather +1): 11 + 1 (magic) + 5 = AC 16
 
-To hit:  d20 +5 (dex) +3 (proficiency)
+To hit:  d20 +5 (dex) +4 (proficiency)
 
 Damage:  shortsword: d6 +1 + 5 
 Damage:  shortbow: 
 
-Sneak attack (if engaged with someone else or at disadvantage):  +4d6
+Sneak attack (if engaged with someone else or at disadvantage):  +5d6
 
 Spell save dc: 8 + spellcasting ability modifier + prof bonus + special modifiers
+8 + 3 + 4  = 15
 
