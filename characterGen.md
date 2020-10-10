@@ -58,6 +58,7 @@ After 4th and 8th ability score mods:
 2. level 1: 1d8+2 = 7
 3. level 2-8: (5 + 2)*7 = 49
 4. total: 56
+5. level 10: 7 + 2
 
 ### Advancement
 
@@ -67,3 +68,4 @@ After 4th and 8th ability score mods:
 4. level 7: evasion
 5. level 8: ablility score improvement: str+1,wis+1
 6. level 9: increase proficiency bonus, sneak attack is 5d6, advantage on dex (stealth) if move less than 1/2.
+7. level 10: cha+2; 
